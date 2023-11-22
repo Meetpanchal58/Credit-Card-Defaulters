@@ -29,7 +29,7 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
 ```bash
 pip install -r requirements.txt
 ```
-## Directory Tree 
+## Project Content
 ```
 ├── templates 
 │   └── index.html
