@@ -18,7 +18,7 @@ This project is divided into two part:
 1. Training a [RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) classification model to predict defaulter as accurate as possible.
 	- Cleaning the datasets, fixing all features
 	- Apply Classification ML model
-2. Building and hosting a Flask web app on Heroku.
+2. Building and hosting a Flask web app.
 	- Build the web app using Flask API
 	- Upload the project on GitHub
     - Get the customer information from Web app
@@ -37,8 +37,6 @@ pip install -r requirements.txt
 ├── credit-card-default.csv
 ├── credit_default_prediction.py
 ├── model.pkl
-├── Procfile
-├── README.md
 ├── README.md
 └── requirements.txt
 ```
@@ -48,8 +46,7 @@ pip install -r requirements.txt
 - Data Preprocessing - Numpy , Pandas
 - Data Visualization - Seaborn , Matplotlib
 - Model Building - Random Forest (Accuracy 84+)
-- Connecting to web - Flask
-- Deployment -  Heroku (cloud)
+- Connecting ModeL to web - Flask
 
 ## Credits
 - The datasets has been provided by [Kaggle](https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset). The original dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) at the UCI Machine Learning Repository. This project wouldn't have been possible without this dataset.
