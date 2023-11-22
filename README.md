@@ -1,5 +1,4 @@
 # Credit-Card-Default-Prediction
-Internship for Ineuron
 
 ## Overview
 This is a classification model for a most common dataset, Credit Card defaulter prediction. Prediction of the next month credit card defaulter based on demographic and last six months behavioral data of customers.
@@ -40,27 +39,16 @@ pip install -r requirements.txt
 ├── model.pkl
 ├── Procfile
 ├── README.md
-├── HLD document
-├── LLD Document
-├── Detailed Description Presentation
-├── log file
-├── wireframe pdf
 ├── README.md
 └── requirements.txt
 ```
 
 ## Technologies Used
-
-![](https://forthebadge.com/images/badges/made-with-python.svg)
-
-[<img target="_blank" src="https://numpy.org/images/logos/numpy.svg" width=100>](https://numpy.org)    [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/450px-Pandas_logo.svg.png" width=150>](https://pandas.pydata.org)    [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=150>](https://scikit-learn.org/stable)   [<img target="_blank" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg" width=170>](https://www.statsmodels.org)
-
-[<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=170>](https://matplotlib.org)      [<img target="_blank" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width=150>](https://seaborn.pydata.org)
-
-[<img target="_blank" src="https://jupyter.org/assets/nav_logo.svg" width=150>](https://jupyter.org)
-
-## Team
-Larissa Pereira: https://github.com/Larissavvy
+- Python 
+- Data Preprocessing - Numpy , Pandas
+- Data Visualization - Seaborn , Matplotlib
+- Model Building - Random Forest (Accuracy 84+)
+- Deployment - Flask , Heroku (cloud)
 
 ## Credits
 - The datasets has been provided by [Kaggle](https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset). The original dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) at the UCI Machine Learning Repository. This project wouldn't have been possible without this dataset.
