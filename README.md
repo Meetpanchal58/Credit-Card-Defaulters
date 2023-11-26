@@ -24,8 +24,6 @@ This project is divided into two part:
     - Get the customer information from Web app
     - Display the prediction 
 
-
-
 ## Technologies Used
 - Python 
 - Data Preprocessing - Numpy , Pandas
