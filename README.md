@@ -4,7 +4,7 @@
 This is a classification model for a most common dataset, Credit Card defaulter prediction. Prediction of the next month credit card defaulter based on demographic and last six months behavioral data of customers.
 
 ## Dataset Information
-This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in _Taiwan from April 2005 to September 2005_.
+This dataset contains 25 columns and 3000 rows on information of default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in _Taiwan from April 2005 to September 2005_.
 
 ## Technical Aspect
 This project is divided into two part:
